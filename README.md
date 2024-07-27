@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![RATUL](gitartwork.svg)
+![EBRATUL](gitartwork.svg)
 
 </div>
 
