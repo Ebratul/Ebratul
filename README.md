@@ -7,6 +7,8 @@
 ![EBRATUL](gitartwork.svg)
 
 </div>
+
+![](https://komarev.com/ghpvc/?username=Ebratul&color=green)
 - 🔭 I’m currently working on [Bricks Breaker](https://github.com/Ebratul/BRICK_BREAKER_Game)
 
 - 🌱 I’m currently learning **ML, OOP, Java Swing**
