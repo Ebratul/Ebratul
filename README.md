@@ -2,6 +2,11 @@
 <h3 align="center">A passionate programmer and noob problem solver.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.playground.com/903530d49a204c038c6215edb428e5f6.jpeg">
 
+<div align="center">
+
+![EBRATUL](gitartwork.svg)
+
+</div>
 - 🔭 I’m currently working on [Bricks Breaker](https://github.com/Ebratul/BRICK_BREAKER_Game)
 
 - 🌱 I’m currently learning **ML, OOP, Java Swing**
