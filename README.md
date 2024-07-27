@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ebratul Shaharier</h1>
 <h3 align="center">A passionate programmer and noob problem solver.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.playground.com/903530d49a204c038c6215edb428e5f6.jpeg">
 
 <div align="center">
 
