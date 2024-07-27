@@ -2,9 +2,7 @@
 <h3 align="center">A passionate programmer and noob problem solver.</h3>
 
 <div align="center">
-
 ![EBRATUL](gitartwork.svg)
-
 </div>
 
 ![](https://komarev.com/ghpvc/?username=Ebratul&color=green)
