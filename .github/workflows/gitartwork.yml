@@ -14,5 +14,5 @@ jobs:
           # Use this username's contribution graph
           user_name: Ebratul
           # Text on contribution graph
-          text: EBRATUL
+          text: RATUL
       - uses: jasineri/simple-push-action@v1
