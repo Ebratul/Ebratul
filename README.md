@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ebratul shaharier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebratul shaharier" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ebratul-shaharier-6ba356283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebratul shaharier" height="30" width="40" /></a>
 <a href="https://fb.com/ebratul shaharier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebratul shaharier" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shaharier-31-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shaharier-31-" height="30" width="40" /></a>
 </p>
