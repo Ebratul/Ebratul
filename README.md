@@ -136,7 +136,7 @@ Full-stack academic management app with student and faculty profiles, course reg
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ebratul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ebratul&show_icons=true&theme=tokyonight&rank_icon=github" />
 </p>
 
 <p align="center">
